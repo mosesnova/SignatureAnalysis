@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHaGvbdB4eC9DISdo6Imxuk0afUtoDD5mscM96yhqwJ53BJar+O6fQB551jysCW/lhwthF6rQRqXYeqXYsqn9A==",
+  "success": true,
+  "projectFilePath": "D:\\SignatureAnalysis\\SignatureAnalysis\\SignatureAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moses\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
